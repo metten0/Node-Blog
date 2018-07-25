@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "knex": "^0.15.2",
+    "nodemon": "^1.18.3",
+    "sqlite3": "^4.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  },
+  "name": "Node-Blog",
+  "version": "1.0.0",
+  "description": "Lambda Node.js exercise",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": "https://github.com/metten0/Node-Blog.git",
+  "author": "metten",
+  "license": "1.0.0",
+  "private": false
+}
